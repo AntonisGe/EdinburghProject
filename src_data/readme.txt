@@ -1,4 +1,5 @@
-\Agents has all the neural networks the RL stuff
+\Agents has all the neural networks the RL
+
 \Enviroment has the rest
 \Weights stores the weights of the SSA and CAM along with other files
 \Policies is the policies on validation time
