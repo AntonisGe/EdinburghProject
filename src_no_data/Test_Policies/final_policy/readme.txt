@@ -1,0 +1,1 @@
+test policy npy files of SSA agents
